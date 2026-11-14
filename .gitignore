@@ -25,6 +25,9 @@
 !.streamlit/secrets.toml.example
 
 # Never commit these
+DATA/users.txt
+.streamlit/secrets.toml
+
 __pycache__/
 *.pyc
 .venv/
